@@ -1,1 +1,1 @@
-# rational-database
+Bash Boilerplate
